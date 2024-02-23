@@ -10,7 +10,7 @@ cd rag_project
 2. Run the Django development server:
    
 python manage.py runserver
-This will start the Django backend server, which will serve the REST API at http://127.0.0.1:8000/.
+This will start the Django backend server, which will serve the REST API 
 
 3. Run React Frontend:
 Open a new terminal or command prompt window.
